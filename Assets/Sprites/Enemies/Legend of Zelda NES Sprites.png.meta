@@ -1,0 +1,2807 @@
+fileFormatVersion: 2
+guid: 9ed1cf06fc1548443af018e5c226c5ab
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 16
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4354f7fb6ecaf478c86c09a06b3fbe
+      internalID: 532789815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 210
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb48cd47c4f1014c8d0c84be3ce7263
+      internalID: 1629578670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 211
+        width: 16
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e2b308fb1308249af2e06f837f1c97
+      internalID: -2018994592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 210
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fe0e7d93d6a2141a3a8be2b0f9f17e
+      internalID: -1611128837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 211
+        width: 16
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56379df64cfcdb54191ecfbe9ef480d3
+      internalID: -399495015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 210
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2150ab9539334424f9f885d0bddf85b6
+      internalID: -892302551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 211
+        width: 16
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b15407fdf51fac4788b2eef5cd1d87e
+      internalID: 567514910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 210
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8c68d12dd1c584ca1a5d110a7986ab
+      internalID: -182050964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 211
+        width: 14
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0862dd4e6459bae4191ec904ae0d5003
+      internalID: 363713401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 211
+        width: 14
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bf950dc9b8f4948b3d00a4df15463f
+      internalID: 1571186750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 210
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e6ed0c64c51f149896d2a18da04223
+      internalID: 1428506828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 213
+        width: 8
+        height: 10
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2a72b4d3adf514683f8cca660023c2
+      internalID: -1989466388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 213
+        width: 8
+        height: 10
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e14a6302b52ba040a79ed57e9571503
+      internalID: 1115266767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 213
+        width: 8
+        height: 10
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1317fafd68639ea44b8c5e3dfcf4a4e0
+      internalID: 2054914752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 210
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d177ac46b93521e4aa90534ce64d5a38
+      internalID: 2012078718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5031fb09c47da4eb49c6ba20fdb8b9
+      internalID: -811570227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f8db6f77c6a1f4795091da10cb7a2c
+      internalID: -87584716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2850d00b3614b545b91d24cb87a2f5f
+      internalID: 425048327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3092c8299602e6942a155dac657de7e5
+      internalID: -1105957230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e29073a49bf0041baa319d4f96d22a
+      internalID: -1812624442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e963a9ac53db747b16c309c14f9fe6
+      internalID: -968336451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16df809d96ec5b4f9310b061ce53944
+      internalID: 1061725485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d55474b3e39e724cbf34894a5641c7f
+      internalID: -1052594146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 180
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bcdf69768bb6543a1351303c16617f
+      internalID: -654648684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 180
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6b9666555cd274f9d97286a5bb1fcf
+      internalID: -209517333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 180
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2f25fbd9a8f1b44bb773185cb98405
+      internalID: 1774773743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 183
+        width: 8
+        height: 10
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c2407aa79ac294b89c954cf650343e
+      internalID: 787573547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 183
+        width: 8
+        height: 10
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5c83ed74ae01a4a804edd7970df0f2
+      internalID: -1054458923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 183
+        width: 8
+        height: 10
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a7d56fe204cde4c9890538cb0ac8e4
+      internalID: 96759474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 180
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f3c3d20401e394ebcaab9080e95a18
+      internalID: -1725907611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 150
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ef58701c19b0a469a8f94e71e4899c
+      internalID: 719654115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 150
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0cf0e3e00e93f4ba72c9725d1934fb
+      internalID: 383093279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 150
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1bd8d4f1c052743b93657261ed58f6
+      internalID: 1477141461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 150
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330e3998550ea6f49a063950ac04e8b9
+      internalID: 783068445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 150
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9363d30712e690344b4866cb0e59b636
+      internalID: -1434747104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 150
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6902dd3180db7d249b61ce5f66b874d3
+      internalID: 1542059037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 150
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da326bcc03d61144a885e106404c3cc
+      internalID: -48305829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 150
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98713e4ddb46ee740a71ae6948042350
+      internalID: -945574804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 151
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d786c19be280fa84b9e06ccb9e59481c
+      internalID: -796562247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 150
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2c198e1ade14e4cbb86858de570749
+      internalID: -1742126213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 151
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5726c751ad963f343a4c12094b455cf9
+      internalID: 250299560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 151
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5f651c0ffa81343869dc69ff9caef9
+      internalID: -1010343117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 150
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c77070d602b134ca22d461706302cb
+      internalID: -1107969532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 151
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f9bd6e2dfe84e449884a72f4b514e1
+      internalID: 956953360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 150
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32527677e8e863b4796991c7dc4ab3bc
+      internalID: 417804919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 120
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410e1fbecd0ac83449fdf74e29e6f368
+      internalID: -963255314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 121
+        width: 14
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5befa5fc10288e43a73b4e5615d0ab8
+      internalID: -1638943839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 120
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5b137219a6ca949a15f25a7b25606b
+      internalID: 1063168025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 121
+        width: 14
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220427b094e7ea741ba22e78b33ff401
+      internalID: -388244203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 120
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e201eeb25a73f4b8fc5ce6024f5a29
+      internalID: -1511336578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 121
+        width: 14
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b56a6e5d5a440419a82b2dfdeaa97f
+      internalID: -880546354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 120
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed33d3c1467594841a880a1cde0fc623
+      internalID: 928722226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 121
+        width: 14
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59845c664256da544b8eb458081405e3
+      internalID: 1968290753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 120
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661f20b98c063744bb5f5693a9aea5d9
+      internalID: 506123275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 121
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527ac8fcdda2aac49822108febadebb8
+      internalID: 226118783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 120
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632595320a071984abe2be9247b9f4ea
+      internalID: -67266184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 120
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b9d96f309b5f147b5ad329f6370abb
+      internalID: -1348031692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 121
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3fa7f909730f64690473b598970a24
+      internalID: 42414283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 120
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849919dcdfcfe104abbdbba4504cf5f2
+      internalID: 1130893802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 120
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5837318649996064d829c3ffbe951230
+      internalID: -499674937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc22f55a7c32bd4e8b03bff8897878a
+      internalID: -424885955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 91
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67db6b77d62ef64cac76ecde345d049
+      internalID: -1004790329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 90
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e131c1f1f029f4aa7ffd7570fe8a54
+      internalID: -228868333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 90
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72c5572b3367e64bb5bf60b4993a2be
+      internalID: -1595602674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 90
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8b2c39f9e3c5a4487b03cf8ccc27fb
+      internalID: 877011290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 91
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dd54d6152d1c44da906f20108def9b
+      internalID: 2075566618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 90
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5f1fe69078dc74b9666001a5cbe6c0
+      internalID: 1392003602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 90
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c8adf0dc93fed4d80be56bc935543b
+      internalID: 1094155547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 91
+        width: 12
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0cd5b4df1238b4987c6930a4f06f5e
+      internalID: -2057478107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 91
+        width: 14
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874e0565fcaa3784098f7f1adc251c40
+      internalID: -1717495566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 90
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323f9aa16b6e86a4ebd89f7b23cf5269
+      internalID: 1463362965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 90
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5981b7150d744a047bd7a0baf36c1716
+      internalID: 1383337869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 90
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb57d176c0577894a86f5581a7f44522
+      internalID: -1936760840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 90
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d537c1fea0a2a2545863d3fc97385c94
+      internalID: 204217107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 90
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11954267dc43d34388fad0b870d1917
+      internalID: 1720576553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f56cc184c818784ca95e6a3ae93bb8d
+      internalID: 567284597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cb5f0c6df68bc48b1a9a2bba06fc2e
+      internalID: -1333660720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 60
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02eb0f6670c7ea8479d890ceaf74ba52
+      internalID: 1408791686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 61
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efce9b2336964bc489476c825cc9e8e7
+      internalID: -1191089600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9f2f24c2f2fd149a5a1a301592219d
+      internalID: -143101011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8559e17deeab19f4a86a0a4b863458a6
+      internalID: 320788332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 60
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1653744fd319c57438d9feb175b5ce51
+      internalID: 580625824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 61
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b3dba653e5226468aeb0fb1ac8e3e2
+      internalID: 1840675725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 61
+        width: 16
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a82e34a3316eb74986f5cdd702ef595
+      internalID: -1414645791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 61
+        width: 16
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed6821477a2af146af1efdee8248e10
+      internalID: 829265229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 60
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2b5c5480895fe4f8a17749533f3926
+      internalID: 385011870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 60
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e26277be667e240bb2e552bcf09f27
+      internalID: 290262870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 60
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca521dd87d1202c448641a3954dca628
+      internalID: -1813241942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 60
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df45e68298cfd1148b89c204b79e8f16
+      internalID: 822118771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 60
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6197e4f8e731d85459efd78f845bc2a1
+      internalID: 1680250425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483c510933a070a40822e16cbb286567
+      internalID: -1437280988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 30
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d03a19af9bf9a043b66dad8cbb2fae4
+      internalID: 1298183898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 30
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ad73bcb54faf44387eed37436401b4
+      internalID: 457232557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 30
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60fc29ddbbcdf84cbb7a96525bf9cb2
+      internalID: 1826875114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 30
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f548fa3663cf414a86c3a86d5202aa1
+      internalID: 1809537379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 30
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc416d1041e6cb04dbe0deac98b22593
+      internalID: 38061080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 30
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c54b71eb3017546aa11d496d0d5ac9
+      internalID: -1650023918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 30
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70fe5e2bcf6cf54a98800cd758ecab9
+      internalID: -560148710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 12
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21a7a16b43e6cf46a8143ff4177df83
+      internalID: 1125424707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 32
+        width: 16
+        height: 12
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc2209692f616840a63feb62a460212
+      internalID: -715182970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 31
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5946bbed8bc40428882c192963b9a2
+      internalID: 886211913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 30
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8203c2f88bfa0f042ac995acf882f826
+      internalID: -1601690459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 31
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8ba37f2c5b746478fb5fd4757b8e95
+      internalID: 1274098909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 31
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03808d766cf067d48aac13fe46f57d13
+      internalID: 1107776250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 34
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d59d7555c7225c48a7fdea96219270c
+      internalID: -165897597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 34
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a283afa1b8ab9c94bac29668f41c254e
+      internalID: 762368745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19326c7e2a1b4644d9ca7291d17d309d
+      internalID: 155121547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c698fb8907ddc24aaa3b7efd53a1135
+      internalID: 229282310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088c1ea3d9d8ecb46879e593a02f04b7
+      internalID: -976983303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf3ad48eb2f56c47963ccbd799f9b71
+      internalID: 1577788702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd3a359c5c7d994d93e0b294d0c67b2
+      internalID: -915964011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadb1aa148a602a41a864df4ce8ac6a2
+      internalID: -506269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21927a8b96e2c26438efed64f9f2fd9f
+      internalID: 703450827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786f0cca88369564db1a05502c7d19aa
+      internalID: -1898690624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_114
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e84c602f8e1d544af2c72ec3951be1
+      internalID: -702368585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_115
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6589ee1d0e78f2d4cade17e4b9e08317
+      internalID: -164852199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_116
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ed25dfc26123d46891743092b094bf
+      internalID: 1304241233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_117
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601c4e2633126c949a8ab612d5aa05ec
+      internalID: 29617133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_118
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 12
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea58d12a20c18a4abe0507bbf25a08f
+      internalID: -1365861555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_119
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 0
+        width: 12
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0942267f4573ffd48949a0dc6f861ffc
+      internalID: -1568012214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_120
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 4
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbb5321e6032d945b741fdaa01ac8e9
+      internalID: 2129944760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Legend of Zelda NES Sprites_121
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 4
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc5f2d118be46d4f8977b8a4a31ca80
+      internalID: -1616051689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Legend of Zelda NES Sprites_115: -164852199
+      Legend of Zelda NES Sprites_66: 1392003602
+      Legend of Zelda NES Sprites_30: 719654115
+      Legend of Zelda NES Sprites_84: 829265229
+      Legend of Zelda NES Sprites_25: 1774773743
+      Legend of Zelda NES Sprites_18: -1105957230
+      Legend of Zelda NES Sprites_17: 425048327
+      Legend of Zelda NES Sprites_51: 928722226
+      Legend of Zelda NES Sprites_55: -67266184
+      Legend of Zelda NES Sprites_37: -945574804
+      Legend of Zelda NES Sprites_81: 580625824
+      Legend of Zelda NES Sprites_85: 385011870
+      Legend of Zelda NES Sprites_34: -1434747104
+      Legend of Zelda NES Sprites_36: -48305829
+      Legend of Zelda NES Sprites_28: 96759474
+      Legend of Zelda NES Sprites_119: -1568012214
+      Legend of Zelda NES Sprites_95: 38061080
+      Legend of Zelda NES Sprites_79: -143101011
+      Legend of Zelda NES Sprites_80: 320788332
+      Legend of Zelda NES Sprites_61: -1004790329
+      Legend of Zelda NES Sprites_74: 1720576553
+      Legend of Zelda NES Sprites_44: 417804919
+      Legend of Zelda NES Sprites_118: -1365861555
+      Legend of Zelda NES Sprites_86: 290262870
+      Legend of Zelda NES Sprites_29: -1725907611
+      Legend of Zelda NES Sprites_31: 383093279
+      Legend of Zelda NES Sprites_94: 1809537379
+      Legend of Zelda NES Sprites_64: 877011290
+      Legend of Zelda NES Sprites_76: -1333660720
+      Legend of Zelda NES Sprites_45: -963255314
+      Legend of Zelda NES Sprites_105: 762368745
+      Legend of Zelda NES Sprites_26: 787573547
+      Legend of Zelda NES Sprites_72: -1936760840
+      Legend of Zelda NES Sprites_0: 532789815
+      Legend of Zelda NES Sprites_16: -87584716
+      Legend of Zelda NES Sprites_8: 363713401
+      Legend of Zelda NES Sprites_106: 155121547
+      Legend of Zelda NES Sprites_27: -1054458923
+      Legend of Zelda NES Sprites_19: -1812624442
+      Legend of Zelda NES Sprites_100: 886211913
+      Legend of Zelda NES Sprites_24: -209517333
+      Legend of Zelda NES Sprites_73: 204217107
+      Legend of Zelda NES Sprites_53: 506123275
+      Legend of Zelda NES Sprites_83: -1414645791
+      Legend of Zelda NES Sprites_71: 1383337869
+      Legend of Zelda NES Sprites_54: 226118783
+      Legend of Zelda NES Sprites_62: -228868333
+      Legend of Zelda NES Sprites_39: -1742126213
+      Legend of Zelda NES Sprites_116: 1304241233
+      Legend of Zelda NES Sprites_11: -1989466388
+      Legend of Zelda NES Sprites_101: -1601690459
+      Legend of Zelda NES Sprites_112: 703450827
+      Legend of Zelda NES Sprites_120: 2129944760
+      Legend of Zelda NES Sprites_82: 1840675725
+      Legend of Zelda NES Sprites_2: -2018994592
+      Legend of Zelda NES Sprites_35: 1542059037
+      Legend of Zelda NES Sprites_12: 1115266767
+      Legend of Zelda NES Sprites_46: -1638943839
+      Legend of Zelda NES Sprites_22: -1052594146
+      Legend of Zelda NES Sprites_59: -499674937
+      Legend of Zelda NES Sprites_110: -915964011
+      Legend of Zelda NES Sprites_6: 567514910
+      Legend of Zelda NES Sprites_87: -1813241942
+      Legend of Zelda NES Sprites_117: 29617133
+      Legend of Zelda NES Sprites_65: 2075566618
+      Legend of Zelda NES Sprites_92: 457232557
+      Legend of Zelda NES Sprites_108: -976983303
+      Legend of Zelda NES Sprites_33: 783068445
+      Legend of Zelda NES Sprites_77: 1408791686
+      Legend of Zelda NES Sprites_23: -654648684
+      Legend of Zelda NES Sprites_78: -1191089600
+      Legend of Zelda NES Sprites_107: 229282310
+      Legend of Zelda NES Sprites_13: 2054914752
+      Legend of Zelda NES Sprites_14: 2012078718
+      Legend of Zelda NES Sprites_49: -1511336578
+      Legend of Zelda NES Sprites_58: 1130893802
+      Legend of Zelda NES Sprites_68: -2057478107
+      Legend of Zelda NES Sprites_9: 1571186750
+      Legend of Zelda NES Sprites_88: 822118771
+      Legend of Zelda NES Sprites_1: 1629578670
+      Legend of Zelda NES Sprites_10: 1428506828
+      Legend of Zelda NES Sprites_90: -1437280988
+      Legend of Zelda NES Sprites_69: -1717495566
+      Legend of Zelda NES Sprites_32: 1477141461
+      Legend of Zelda NES Sprites_97: -560148710
+      Legend of Zelda NES Sprites_93: 1826875114
+      Legend of Zelda NES Sprites_113: -1898690624
+      Legend of Zelda NES Sprites_111: -506269
+      Legend of Zelda NES Sprites_52: 1968290753
+      Legend of Zelda NES Sprites_41: -1010343117
+      Legend of Zelda NES Sprites_4: -399495015
+      Legend of Zelda NES Sprites_63: -1595602674
+      Legend of Zelda NES Sprites_98: 1125424707
+      Legend of Zelda NES Sprites_56: -1348031692
+      Legend of Zelda NES Sprites_40: 250299560
+      Legend of Zelda NES Sprites_50: -880546354
+      Legend of Zelda NES Sprites_102: 1274098909
+      Legend of Zelda NES Sprites_109: 1577788702
+      Legend of Zelda NES Sprites_67: 1094155547
+      Legend of Zelda NES Sprites_103: 1107776250
+      Legend of Zelda NES Sprites_114: -702368585
+      Legend of Zelda NES Sprites_47: 1063168025
+      Legend of Zelda NES Sprites_43: 956953360
+      Legend of Zelda NES Sprites_38: -796562247
+      Legend of Zelda NES Sprites_3: -1611128837
+      Legend of Zelda NES Sprites_70: 1463362965
+      Legend of Zelda NES Sprites_5: -892302551
+      Legend of Zelda NES Sprites_89: 1680250425
+      Legend of Zelda NES Sprites_104: -165897597
+      Legend of Zelda NES Sprites_121: -1616051689
+      Legend of Zelda NES Sprites_21: 1061725485
+      Legend of Zelda NES Sprites_48: -388244203
+      Legend of Zelda NES Sprites_60: -424885955
+      Legend of Zelda NES Sprites_20: -968336451
+      Legend of Zelda NES Sprites_75: 567284597
+      Legend of Zelda NES Sprites_42: -1107969532
+      Legend of Zelda NES Sprites_99: -715182970
+      Legend of Zelda NES Sprites_57: 42414283
+      Legend of Zelda NES Sprites_7: -182050964
+      Legend of Zelda NES Sprites_15: -811570227
+      Legend of Zelda NES Sprites_91: 1298183898
+      Legend of Zelda NES Sprites_96: -1650023918
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
