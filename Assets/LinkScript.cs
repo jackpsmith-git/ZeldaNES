@@ -12,6 +12,8 @@ public class LinkScript : MonoBehaviour
     float moveLimiter = .7f;
 
     public float runSpeed = 1f;
+    public int maxHealth = 3;
+    public float currentHealth = 3f;
 
     public string direction = "";
     private Animator animator;
@@ -60,7 +62,7 @@ public class LinkScript : MonoBehaviour
 
         if (body.velocity.x > 0 && body.velocity.y > 0)
         {
-            if (body.velocity.x >= body.velocity.y)
+            if (Mathf.Abs(body.velocity.x) >= Mathf.Abs(body.velocity.y))
             {
                 setDirection("right");
             }
@@ -71,7 +73,7 @@ public class LinkScript : MonoBehaviour
         }
         if (body.velocity.x > 0 && body.velocity.y < 0)
         {
-            if (body.velocity.x >= body.velocity.y)
+            if (Mathf.Abs(body.velocity.x) >= Mathf.Abs(body.velocity.y))
             {
                 setDirection("right");
             }
@@ -82,7 +84,7 @@ public class LinkScript : MonoBehaviour
         }
         if (body.velocity.x < 0 && body.velocity.y > 0)
         {
-            if (body.velocity.x >= body.velocity.y)
+            if (Mathf.Abs(body.velocity.x) >= Mathf.Abs(body.velocity.y))
             {
                 setDirection("left");
             }
@@ -93,7 +95,7 @@ public class LinkScript : MonoBehaviour
         }
         if (body.velocity.x < 0 && body.velocity.y < 0)
         {
-            if (body.velocity.x >= body.velocity.y)
+            if (Mathf.Abs(body.velocity.x) >= Mathf.Abs(body.velocity.y))
             {
                 setDirection("left");
             }
